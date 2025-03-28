@@ -1,0 +1,7 @@
+A Polynomial y = 11x2 + 0.3x + 1E-08
+B Linear y = 1010x - 1000
+C Logartihmic y = 19.798ln(x) - 48.28
+D Exponential y = 0.0099e0.0069x
+F Polynomial y = 2E+08x2 - 7E+11x + 1E+14
+G Logarithmic y = 1.4426ln(x) - 0.0013
+H Polynomial y = 19908x2 - 6E+07x + 1E+10
